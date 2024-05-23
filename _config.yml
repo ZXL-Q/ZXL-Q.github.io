@@ -104,3 +104,6 @@ deploy:
   type: git
   repo: git@github.com:zxl-q/zxl-q.github.io.git
   branch: main
+
+netlify_cms:
+    config_file: netlify.yaml
